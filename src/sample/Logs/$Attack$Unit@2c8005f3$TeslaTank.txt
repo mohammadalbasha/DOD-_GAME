@@ -1,0 +1,12 @@
+Attacked Unit@7b50d19fat position 1124, 1126 at time 1607970695557
+Got attacked at 1110, 1229 by Unit@741ceaec at time 1607970695568
+Got attacked at 1110, 1229 by Unit@2faf118b at time 1607970695586
+Got attacked at 1110, 1229 by Unit@2faf118b at time 1607970715415
+Attacked Unit@2faf118bat position 951, 1137 at time 1607970715433
+Got attacked at 1110, 1229 by Unit@2faf118b at time 1607970717101
+Got attacked at 1110, 1229 by Unit@404cc293 at time 1607970717108
+Attacked Unit@7b50d19fat position 1124, 1126 at time 1607970717133
+Got attacked at 1110, 1229 by Unit@7b50d19f at time 1607970718844
+Attacked Unit@7b50d19fat position 1124, 1126 at time 1607970718868
+Got attacked at 1110, 1229 by Unit@404cc293 at time 1607970720481
+Died at 1110, 1229 at time 1607970720510

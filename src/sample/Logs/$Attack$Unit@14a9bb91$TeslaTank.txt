@@ -1,0 +1,22 @@
+Attacked Unit@5d20e56cat position 713, 218 at time 1607904712338
+Attacked Unit@37c4cc04at position 612, 352 at time 1607904725374
+Attacked Unit@490cbd95at position 829, 465 at time 1607904750339
+Attacked Unit@490cbd95at position 829, 465 at time 1607904752015
+Got attacked at 764, 264 by Unit@37c4cc04 at time 1607904752076
+Got attacked at 764, 264 by Unit@7fa16171 at time 1607904752080
+Got attacked at 764, 264 by Unit@25cb002b at time 1607904752896
+Got attacked at 764, 264 by Unit@4829a628 at time 1607904753708
+Got attacked at 764, 264 by Unit@52247f98 at time 1607904753710
+Got attacked at 764, 264 by Unit@3420f3ed at time 1607904753725
+Got attacked at 764, 264 by Unit@2da31a14 at time 1607904753730
+Got attacked at 764, 264 by Unit@72fab196 at time 1607904753731
+Got attacked at 764, 264 by Unit@490cbd95 at time 1607904753734
+Got attacked at 764, 264 by Unit@2e3cc8a1 at time 1607904753739
+Got attacked at 764, 264 by Unit@3571040 at time 1607904753741
+Attacked Unit@454f7dbbat position 573, 255 at time 1607904753746
+Got attacked at 764, 264 by Unit@47ceb16a at time 1607904753747
+Died at 747, 284 at time 1607904753750
+Died at 745, 280 at time 1607904753800
+Got attacked at 764, 264 by Falling off a bridge at time 1607904753809
+Died at 764, 264 at time 1607904753849
+Died at 764, 264 at time 1607904753849

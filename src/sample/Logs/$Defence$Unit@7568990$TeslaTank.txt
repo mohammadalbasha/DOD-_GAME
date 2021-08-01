@@ -1,0 +1,24 @@
+Attacked Unit@3fea6e93at position 457, 1544 at time 1607970910794
+Got attacked at 637, 1474 by Unit@15ee4ebe at time 1607970910800
+Got attacked at 637, 1474 by Unit@3fea6e93 at time 1607970910801
+Got attacked at 637, 1474 by Unit@711fb6bc at time 1607970910803
+Attacked Unit@39689e8fat position 438, 1469 at time 1607970946938
+Got attacked at 637, 1474 by Unit@39689e8f at time 1607970946947
+Attacked Unit@15ee4ebeat position 412, 1463 at time 1607970948637
+Got attacked at 637, 1474 by Unit@3fea6e93 at time 1607970948643
+Attacked Unit@6304e7aaat position 477, 1505 at time 1607970950309
+Got attacked at 637, 1474 by Unit@15ee4ebe at time 1607970950312
+Got attacked at 637, 1474 by Unit@2ef45ccd at time 1607970951994
+Got attacked at 637, 1474 by Unit@6bbaf5f3 at time 1607970951995
+Attacked Unit@6bbaf5f3at position 490, 1460 at time 1607970952007
+Died at 602, 1440 at time 1607970952008
+Died at 605, 1465 at time 1607970952008
+Died at 601, 1438 at time 1607970952008
+Died at 624, 1454 at time 1607970952008
+Died at 602, 1440 at time 1607970952008
+Died at 605, 1465 at time 1607970952008
+Died at 621, 1488 at time 1607970952008
+Died at 624, 1454 at time 1607970952008
+Died at 605, 1465 at time 1607970952008
+Died at 621, 1488 at time 1607970952008
+Died at 637, 1474 at time 1607970952008

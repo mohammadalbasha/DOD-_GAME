@@ -1,0 +1,26 @@
+Moved to 202, 190 at time 1607969803892
+Moved to 201, 189 at time 1607969803959
+Moved to 200, 188 at time 1607969803991
+Moved to 199, 187 at time 1607969804009
+Moved to 198, 186 at time 1607969804037
+Moved to 197, 185 at time 1607969804055
+Moved to 196, 184 at time 1607969804071
+Moved to 195, 183 at time 1607969804087
+Moved to 194, 182 at time 1607969804102
+Moved to 193, 181 at time 1607969804123
+Moved to 192, 180 at time 1607969804136
+Moved to 191, 179 at time 1607969804155
+Moved to 190, 178 at time 1607969804168
+Moved to 189, 177 at time 1607969804183
+Moved to 188, 176 at time 1607969804243
+Moved to 187, 175 at time 1607969804257
+Moved to 186, 174 at time 1607969804270
+Moved to 185, 173 at time 1607969804282
+Moved to 184, 172 at time 1607969804293
+Moved to 183, 171 at time 1607969804304
+Moved to 182, 170 at time 1607969804318
+Moved to 181, 169 at time 1607969804331
+Moved to 180, 168 at time 1607969804359
+Moved to 179, 167 at time 1607969804371
+Attacked Unit@545bec9dat position 100, 100 at time 1607969804383
+Attacked Unit@545bec9dat position 100, 100 at time 1607969804671

@@ -1,0 +1,18 @@
+Attacked Unit@7bb89c34at position 957, 527 at time 1607965644368
+Got attacked at 949, 312 by Unit@28e7563c at time 1607965644411
+Attacked Unit@94d8a79at position 1065, 394 at time 1607965645981
+Got attacked at 949, 312 by Unit@507b9f7b at time 1607965646084
+Got attacked at 949, 312 by Unit@78de7bd2 at time 1607965646092
+Got attacked at 949, 312 by Unit@79ad59c6 at time 1607965646460
+Got attacked at 949, 312 by Unit@21eba1d1 at time 1607965646466
+Got attacked at 949, 312 by Unit@72d241d9 at time 1607965646470
+Got attacked at 949, 312 by Unit@5b66c1c4 at time 1607965646471
+Got attacked at 949, 312 by Unit@5219a18a at time 1607965646484
+Got attacked at 949, 312 by Unit@76c3b42a at time 1607965646489
+Got attacked at 949, 312 by Unit@10429562 at time 1607965646541
+Got attacked at 949, 312 by Unit@7bbf909c at time 1607965646553
+Died at 901, 281 at time 1607965646623
+Got attacked at 949, 312 by Falling off a bridge at time 1607965646624
+Died at 949, 312 at time 1607965646624
+Died at 937, 278 at time 1607965646624
+Died at 949, 312 at time 1607965646624

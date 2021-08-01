@@ -1,0 +1,23 @@
+Attacked Unit@79b19afat position 1116, 454 at time 1607965644368
+Attacked Unit@507b9f7bat position 802, 182 at time 1607965646018
+Attacked Unit@1e310e90at position 594, 400 at time 1607965707909
+Attacked Unit@307405f9at position 1049, 346 at time 1607965709580
+Attacked Unit@7a585632at position 894, 465 at time 1607965711423
+Got attacked at 848, 429 by Unit@507b9f7b at time 1607965711511
+Got attacked at 848, 429 by Unit@7853121a at time 1607965711520
+Got attacked at 848, 429 by Unit@7bbf909c at time 1607965711522
+Got attacked at 848, 429 by Unit@79ad59c6 at time 1607965711624
+Got attacked at 848, 429 by Unit@21eba1d1 at time 1607965711648
+Got attacked at 848, 429 by Unit@76655c74 at time 1607965711660
+Got attacked at 848, 429 by Unit@307405f9 at time 1607965711681
+Got attacked at 848, 429 by Unit@36e10729 at time 1607965711718
+Got attacked at 848, 429 by Unit@7cce8556 at time 1607965711734
+Got attacked at 848, 429 by Unit@7a585632 at time 1607965711739
+Got attacked at 848, 429 by Unit@704953d5 at time 1607965711795
+Got attacked at 848, 429 by Unit@1e310e90 at time 1607965711814
+Got attacked at 848, 429 by Unit@28e7563c at time 1607965711818
+Died at 866, 375 at time 1607965712337
+Died at 845, 400 at time 1607965712556
+Got attacked at 848, 429 by Falling off a bridge at time 1607965712755
+Died at 848, 429 at time 1607965712943
+Died at 848, 429 at time 1607965713155

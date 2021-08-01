@@ -1,0 +1,3 @@
+Got attacked at 536, 1317 by Unit@26ad6a0d at time 1607904712196
+Moved to 535, 1316 at time 1607904712454
+Died at 535, 1316 at time 1607904712455

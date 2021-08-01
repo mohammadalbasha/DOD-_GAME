@@ -1,0 +1,12 @@
+Got attacked at 364, 1349 by Unit@6bbaf5f3 at time 1607968586284
+Attacked Unit@614697beat position 215, 1471 at time 1607968586347
+Got attacked at 364, 1349 by Unit@6bbaf5f3 at time 1607968622506
+Got attacked at 364, 1349 by Unit@2ef45ccd at time 1607968622529
+Attacked Unit@6304e7aaat position 263, 1466 at time 1607968622606
+Got attacked at 364, 1349 by Unit@6bbaf5f3 at time 1607968624199
+Attacked Unit@369379d6at position 344, 1126 at time 1607968624390
+Got attacked at 364, 1349 by Unit@369379d6 at time 1607968625955
+Got attacked at 364, 1349 by Unit@6304e7aa at time 1607968626096
+Attacked Unit@614697beat position 215, 1471 at time 1607968626256
+Got attacked at 364, 1349 by Unit@6bbaf5f3 at time 1607968627653
+Died at 364, 1349 at time 1607968627712

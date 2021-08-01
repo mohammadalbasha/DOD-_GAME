@@ -1,0 +1,8 @@
+Attacked Unit@4b023391at position 907, 932 at time 1607970716512
+Attacked Unit@7311ad4bat position 1000, 1188 at time 1607970717627
+Attacked Unit@7e55b4dfat position 810, 958 at time 1607970718739
+Attacked Unit@148e5a19at position 921, 1000 at time 1607970719857
+Attacked Unit@7e55b4dfat position 878, 957 at time 1607970720971
+Attacked Unit@148e5a19at position 911, 999 at time 1607970722091
+Attacked Unit@7e55b4dfat position 919, 1000 at time 1607970723205
+Attacked Unit@7311ad4bat position 982, 1283 at time 1607970724320

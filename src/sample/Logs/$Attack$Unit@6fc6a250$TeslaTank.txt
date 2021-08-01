@@ -1,0 +1,18 @@
+Got attacked at 427, 1516 by Unit@398db26a at time 1607970910792
+Attacked Unit@398db26aat position 573, 1458 at time 1607970910801
+Got attacked at 427, 1516 by Unit@398db26a at time 1607970946947
+Got attacked at 427, 1516 by Unit@dee4cd2 at time 1607970946948
+Attacked Unit@dee4cd2at position 624, 1454 at time 1607970946957
+Attacked Unit@dee4cd2at position 624, 1454 at time 1607970948624
+Attacked Unit@4c05ae63at position 601, 1438 at time 1607970950310
+Got attacked at 427, 1516 by Unit@4c05ae63 at time 1607970950319
+Attacked Unit@dee4cd2at position 624, 1454 at time 1607970951998
+Moved to 428, 1515 at time 1607970953671
+Moved to 429, 1514 at time 1607970953706
+Moved to 430, 1513 at time 1607970953741
+Moved to 431, 1512 at time 1607970953782
+Moved to 432, 1511 at time 1607970953817
+Moved to 433, 1510 at time 1607970953853
+Moved to 434, 1509 at time 1607970953887
+Moved to 435, 1508 at time 1607970953921
+Moved to 436, 1507 at time 1607970953956

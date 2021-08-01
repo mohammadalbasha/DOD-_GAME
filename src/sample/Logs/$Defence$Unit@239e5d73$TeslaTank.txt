@@ -1,0 +1,8 @@
+Attacked Unit@c64fc2cat position 1308, 511 at time 1607968070249
+Got attacked at 1077, 667 by Unit@dc43e5a at time 1607968070291
+Got attacked at 1077, 667 by Unit@72006ef5 at time 1607968143942
+Attacked Unit@dc43e5aat position 1239, 580 at time 1607968143965
+Attacked Unit@464d020at position 1258, 646 at time 1607968145588
+Attacked Unit@7dd9089dat position 1289, 574 at time 1607968147380
+Attacked Unit@50cbdd85at position 1342, 583 at time 1607968149264
+Moved to 1077, 667 at time 1607968149451

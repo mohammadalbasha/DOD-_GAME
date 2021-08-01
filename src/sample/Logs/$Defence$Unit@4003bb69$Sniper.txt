@@ -1,0 +1,6 @@
+Got attacked at 49, 746 by Unit@74df2a4 at time 1607968586329
+Got attacked at 49, 746 by Unit@4e30dab9 at time 1607968586356
+Got attacked at 49, 746 by Unit@4e30dab9 at time 1607968622648
+Got attacked at 49, 746 by Unit@11d32ba1 at time 1607968622654
+Attacked Unit@79516d5bat position 13, 1211 at time 1607968622701
+Died at 49, 746 at time 1607968622702

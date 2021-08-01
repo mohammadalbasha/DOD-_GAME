@@ -1,0 +1,9 @@
+Attacked Unit@56aed972at position 23, 912 at time 1607967053778
+Attacked Unit@2f712781at position 41, 883 at time 1607967097521
+Got attacked at 31, 1147 by Unit@74394d2e at time 1607967097699
+Got attacked at 31, 1147 by Unit@82e9832 at time 1607967097704
+Got attacked at 31, 1147 by Unit@670efc71 at time 1607967097706
+Got attacked at 31, 1147 by Unit@251014f1 at time 1607967097713
+Got attacked at 31, 1147 by Unit@56aed972 at time 1607967097715
+Died at 31, 1147 at time 1607967097767
+Got attacked at 31, 1147 by Unit@2f712781 at time 1607967097777

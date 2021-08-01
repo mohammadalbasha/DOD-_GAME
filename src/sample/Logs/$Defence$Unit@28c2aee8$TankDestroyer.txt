@@ -1,0 +1,9 @@
+Moved to 715, 1306 at time 1607972168660
+Attacked Unit@44c7fdcaat position 546, 1360 at time 1607972168712
+Got attacked at 715, 1306 by Unit@44c7fdca at time 1607972170320
+Got attacked at 715, 1306 by Unit@54de08b1 at time 1607972170333
+Attacked Unit@44c7fdcaat position 546, 1360 at time 1607972170427
+Got attacked at 715, 1306 by Unit@6702b37a at time 1607972171995
+Got attacked at 715, 1306 by Unit@6067060f at time 1607972172039
+Got attacked at 715, 1306 by Falling off a bridge at time 1607972172054
+Died at 715, 1306 at time 1607972172084

@@ -1,0 +1,24 @@
+Moved to 1275, 1003 at time 1607968070225
+Moved to 1276, 1002 at time 1607968070286
+Moved to 1277, 1001 at time 1607968144042
+Moved to 1276, 1000 at time 1607968144076
+Moved to 1277, 1001 at time 1607968144153
+Moved to 1278, 1002 at time 1607968144325
+Moved to 1279, 1001 at time 1607968144469
+Moved to 1280, 1002 at time 1607968144505
+Moved to 1279, 1001 at time 1607968144700
+Moved to 1280, 1000 at time 1607968144764
+Moved to 1281, 1001 at time 1607968144970
+Moved to 1282, 1002 at time 1607968145004
+Attacked Unit@2be7564at position 1517, 1271 at time 1607968145104
+Got attacked at 1282, 1002 by Unit@2be7564 at time 1607968145220
+Got attacked at 1282, 1002 by Unit@487bd264 at time 1607968145290
+Attacked Unit@487bd264at position 1356, 1271 at time 1607968146780
+Got attacked at 1282, 1002 by Unit@2be7564 at time 1607968146922
+Got attacked at 1282, 1002 by Unit@487bd264 at time 1607968147007
+Attacked Unit@487bd264at position 1356, 1271 at time 1607968148493
+Got attacked at 1282, 1002 by Unit@487bd264 at time 1607968148762
+Got attacked at 1282, 1002 by Unit@2be7564 at time 1607968148794
+Attacked Unit@487bd264at position 1356, 1271 at time 1607968150192
+Got attacked at 1282, 1002 by Unit@487bd264 at time 1607968150449
+Died at 1282, 1002 at time 1607968150593

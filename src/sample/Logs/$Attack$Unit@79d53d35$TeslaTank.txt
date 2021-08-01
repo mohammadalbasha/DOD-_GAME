@@ -1,0 +1,13 @@
+Got attacked at 413, 1467 by Unit@49df1978 at time 1607970313850
+Attacked Unit@5bec4706at position 585, 1402 at time 1607970313887
+Attacked Unit@63fe35eeat position 617, 1407 at time 1607970315565
+Got attacked at 413, 1467 by Unit@5bec4706 at time 1607970315603
+Got attacked at 413, 1467 by Unit@31fec1c3 at time 1607970317183
+Attacked Unit@63fe35eeat position 617, 1407 at time 1607970317239
+Got attacked at 413, 1467 by Unit@3bf48024 at time 1607970317280
+Got attacked at 413, 1467 by Unit@65b9bbd2 at time 1607970318885
+Attacked Unit@3bf48024at position 602, 1427 at time 1607970318920
+Got attacked at 413, 1467 by Unit@56aa60c1 at time 1607970318949
+Attacked Unit@65b9bbd2at position 661, 1409 at time 1607970320615
+Got attacked at 413, 1467 by Unit@56aa60c1 at time 1607970320647
+Died at 413, 1467 at time 1607970320649

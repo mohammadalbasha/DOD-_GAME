@@ -1,0 +1,7 @@
+Attacked Unit@5d7383bbat position 408, 363 at time 1610736934763
+Got attacked at 303, 257 by Unit@55543cc4 at time 1610736934982
+Attacked Unit@5d7383bbat position 408, 363 at time 1610736936416
+Got attacked at 303, 257 by Unit@7b6fb04 at time 1610736936611
+Attacked Unit@7867c99fat position 381, 255 at time 1610736938092
+Attacked Unit@55543cc4at position 363, 184 at time 1610736939804
+Moved to 303, 257 at time 1610736939864

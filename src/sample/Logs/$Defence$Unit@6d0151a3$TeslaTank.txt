@@ -1,0 +1,37 @@
+Attacked Unit@2bbee16dat position 505, 1340 at time 1607971941755
+Attacked Unit@2bbee16dat position 505, 1340 at time 1607972019911
+Attacked Unit@7f353822at position 504, 1308 at time 1607972021611
+Attacked Unit@149cca75at position 482, 1307 at time 1607972023304
+Attacked Unit@21357b49at position 561, 1303 at time 1607972024992
+Attacked Unit@720b2cf2at position 554, 1322 at time 1607972026690
+Attacked Unit@403ce9efat position 581, 1327 at time 1607972028375
+Attacked Unit@74d64f16at position 541, 1244 at time 1607972030058
+Attacked Unit@35d9bf3at position 572, 1291 at time 1607972031739
+Moved to 746, 1087 at time 1607972031773
+Moved to 745, 1086 at time 1607972031807
+Moved to 744, 1085 at time 1607972031841
+Moved to 743, 1084 at time 1607972031875
+Moved to 742, 1083 at time 1607972031909
+Moved to 741, 1082 at time 1607972031943
+Moved to 740, 1081 at time 1607972031977
+Moved to 737, 1080 at time 1607972032112
+Moved to 736, 1079 at time 1607972032146
+Moved to 735, 1078 at time 1607972032182
+Moved to 734, 1077 at time 1607972032216
+Moved to 733, 1076 at time 1607972032250
+Moved to 732, 1075 at time 1607972032317
+Moved to 731, 1074 at time 1607972032351
+Moved to 730, 1073 at time 1607972032385
+Moved to 729, 1072 at time 1607972032419
+Moved to 728, 1071 at time 1607972032486
+Moved to 727, 1070 at time 1607972032520
+Moved to 726, 1069 at time 1607972032554
+Moved to 725, 1068 at time 1607972032588
+Moved to 724, 1067 at time 1607972032662
+Moved to 723, 1066 at time 1607972032697
+Moved to 722, 1065 at time 1607972032731
+Moved to 721, 1064 at time 1607972032765
+Moved to 720, 1063 at time 1607972032799
+Moved to 719, 1062 at time 1607972032833
+Moved to 718, 1061 at time 1607972032868
+Moved to 717, 1060 at time 1607972032905

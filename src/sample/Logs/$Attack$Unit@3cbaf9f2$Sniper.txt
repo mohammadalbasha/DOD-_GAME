@@ -1,0 +1,8 @@
+Got attacked at 738, 17 by Unit@1f7dc69e at time 1607904712402
+Got attacked at 738, 17 by Unit@7146e02 at time 1607904712416
+Got attacked at 738, 17 by Unit@18901493 at time 1607904712440
+Got attacked at 738, 17 by Unit@4b10cf20 at time 1607904712444
+Got attacked at 738, 17 by Unit@5642a228 at time 1607904712446
+Got attacked at 738, 17 by Unit@738330c1 at time 1607904712447
+Attacked Unit@773c4edbat position 318, 355 at time 1607904712469
+Died at 738, 17 at time 1607904712469

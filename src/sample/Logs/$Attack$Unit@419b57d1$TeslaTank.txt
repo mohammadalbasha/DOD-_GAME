@@ -1,0 +1,3 @@
+Attacked Unit@7bbf909cat position 957, 258 at time 1607965644620
+Got attacked at 1048, 285 by Falling off a bridge at time 1607965645086
+Died at 1048, 285 at time 1607965645153

@@ -1,0 +1,8 @@
+Attacked Unit@63fe35eeat position 617, 1407 at time 1607970313883
+Attacked Unit@31fec1c3at position 620, 1450 at time 1607970315581
+Attacked Unit@63fe35eeat position 617, 1407 at time 1607970317274
+Got attacked at 393, 1431 by Unit@5bec4706 at time 1607970317298
+Attacked Unit@65b9bbd2at position 661, 1409 at time 1607970318995
+Got attacked at 393, 1431 by Unit@3bf48024 at time 1607970320624
+Attacked Unit@5bec4706at position 585, 1402 at time 1607970320669
+Got attacked at 393, 1431 by Unit@5bec4706 at time 1607970320681

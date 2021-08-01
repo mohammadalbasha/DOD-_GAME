@@ -1,0 +1,26 @@
+Moved to 986, 449 at time 1607870162225
+Moved to 985, 450 at time 1607870162281
+Moved to 984, 451 at time 1607870162369
+Moved to 985, 452 at time 1607870162411
+Moved to 986, 453 at time 1607870162450
+Moved to 985, 454 at time 1607870162496
+Moved to 984, 455 at time 1607870162594
+Moved to 983, 456 at time 1607870162633
+Moved to 982, 457 at time 1607870162675
+Moved to 983, 459 at time 1607870163528
+Moved to 982, 460 at time 1607870163593
+Moved to 981, 461 at time 1607870163646
+Moved to 980, 462 at time 1607870163746
+Moved to 979, 463 at time 1607870163803
+Moved to 978, 464 at time 1607870163892
+Moved to 977, 465 at time 1607870163959
+Moved to 976, 466 at time 1607870164056
+Moved to 975, 467 at time 1607870164158
+Moved to 974, 468 at time 1607870164229
+Moved to 973, 469 at time 1607870164351
+Attacked Unit@d358a75at position 994, 738 at time 1607870164509
+Attacked Unit@d358a75at position 993, 717 at time 1607870166068
+Attacked Unit@d358a75at position 993, 701 at time 1607870167747
+Attacked Unit@6c43c4c7at position 930, 692 at time 1607870169454
+Attacked Unit@bd34627at position 950, 674 at time 1607870171154
+Attacked Unit@bd34627at position 949, 655 at time 1607870172899

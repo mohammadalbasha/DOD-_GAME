@@ -1,0 +1,7 @@
+Got attacked at 659, 420 by Unit@3e6f4f62 at time 1607965644641
+Got attacked at 659, 420 by Unit@22df706f at time 1607965644661
+Attacked Unit@3ec75893at position 10, 9 at time 1607965644785
+Died at 655, 378 at time 1607965645009
+Died at 644, 400 at time 1607965645061
+Died at 650, 431 at time 1607965645409
+Died at 659, 420 at time 1607965645594

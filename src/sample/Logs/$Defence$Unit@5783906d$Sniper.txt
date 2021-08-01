@@ -1,0 +1,4 @@
+Attacked Unit@5ba49dd6at position 532, 602 at time 1607965644356
+Got attacked at 18, 7 by Unit@5844f108 at time 1607965644731
+Got attacked at 18, 7 by Unit@43622cd4 at time 1607965644734
+Moved to 18, 7 at time 1607965646180

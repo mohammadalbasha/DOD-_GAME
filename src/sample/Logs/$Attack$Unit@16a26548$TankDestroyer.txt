@@ -1,0 +1,31 @@
+Attacked Unit@4cc21107at position 652, 233 at time 1607905322020
+Got attacked at 737, 307 by Unit@5f263cb0 at time 1607905322031
+Got attacked at 737, 307 by Unit@45cf0a04 at time 1607905322045
+Got attacked at 737, 307 by Unit@11800769 at time 1607905322137
+Got attacked at 737, 307 by Unit@fe779de at time 1607905322149
+Got attacked at 737, 307 by Unit@40f4aa94 at time 1607905322232
+Got attacked at 737, 307 by Unit@76a97908 at time 1607905322242
+Got attacked at 737, 307 by Unit@5d562a57 at time 1607905465031
+Got attacked at 737, 307 by Unit@2b222fba at time 1607905465031
+Got attacked at 737, 307 by Unit@3de4590a at time 1607905465049
+Got attacked at 737, 307 by Unit@5f263cb0 at time 1607905465050
+Got attacked at 737, 307 by Unit@32c2c22b at time 1607905465055
+Got attacked at 737, 307 by Unit@1a18967c at time 1607905465066
+Got attacked at 737, 307 by Unit@45cf0a04 at time 1607905465087
+Got attacked at 737, 307 by Unit@2868bdab at time 1607905465087
+Attacked Unit@21d0f2c0at position 679, 236 at time 1607905465089
+Got attacked at 737, 307 by Unit@76a97908 at time 1607905465099
+Got attacked at 737, 307 by Unit@2b8416ec at time 1607905465103
+Got attacked at 737, 307 by Unit@5d836746 at time 1607905465105
+Got attacked at 737, 307 by Unit@22102b36 at time 1607905465109
+Got attacked at 737, 307 by Unit@fe779de at time 1607905465114
+Got attacked at 737, 307 by Unit@c2725ea at time 1607905465150
+Got attacked at 737, 307 by Unit@63ccfc39 at time 1607905465284
+Got attacked at 737, 307 by Unit@42b9674a at time 1607905465305
+Died at 747, 284 at time 1607905465309
+Died at 745, 280 at time 1607905465316
+Got attacked at 737, 307 by Falling off a bridge at time 1607905465535
+Died at 737, 307 at time 1607905465720
+Died at 758, 308 at time 1607905465933
+Died at 742, 263 at time 1607905466139
+Died at 737, 307 at time 1607905466333

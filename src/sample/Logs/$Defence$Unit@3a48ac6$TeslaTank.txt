@@ -1,0 +1,7 @@
+Got attacked at 707, 184 by Unit@36629550 at time 1607903508308
+Got attacked at 707, 184 by Unit@9ae17dc at time 1607903508325
+Attacked Unit@4978b79eat position 753, 420 at time 1607903508328
+Attacked Unit@3eee0b86at position 696, 311 at time 1607903509987
+Got attacked at 707, 184 by Unit@3eee0b86 at time 1607903509992
+Got attacked at 707, 184 by Unit@9ae17dc at time 1607903510007
+Got attacked at 707, 184 by Unit@3114b3a6 at time 1607903510020

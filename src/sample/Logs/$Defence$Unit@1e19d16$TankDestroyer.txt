@@ -1,0 +1,10 @@
+Attacked Unit@773b0dd1at position 528, 1358 at time 1607971505684
+Attacked Unit@773b0dd1at position 528, 1358 at time 1607971517615
+Attacked Unit@254aade2at position 510, 1381 at time 1607971519329
+Attacked Unit@254aade2at position 510, 1381 at time 1607971521006
+Moved to 648, 1336 at time 1607971521114
+Got attacked at 648, 1336 by Falling off a bridge at time 1607971525409
+Moved to 647, 1335 at time 1607971525443
+Died at 656, 1345 at time 1607971525443
+Died at 668, 1373 at time 1607971525443
+Died at 647, 1335 at time 1607971525443

@@ -1,0 +1,15 @@
+Attacked Unit@15996f7bat position 380, 1331 at time 1607971941774
+Got attacked at 592, 1302 by Unit@1e83c84e at time 1607971941784
+Got attacked at 592, 1302 by Unit@149cca75 at time 1607971941794
+Got attacked at 592, 1302 by Unit@603d5b62 at time 1607971941794
+Attacked Unit@35d9bf3at position 461, 1379 at time 1607972019914
+Got attacked at 592, 1302 by Unit@149cca75 at time 1607972019948
+Got attacked at 592, 1302 by Unit@1e83c84e at time 1607972019950
+Died at 577, 1297 at time 1607972019978
+Died at 605, 1298 at time 1607972019987
+Died at 613, 1306 at time 1607972019988
+Died at 605, 1298 at time 1607972019989
+Died at 638, 1298 at time 1607972019989
+Died at 627, 1337 at time 1607972019989
+Died at 613, 1306 at time 1607972019989
+Died at 592, 1302 at time 1607972019989

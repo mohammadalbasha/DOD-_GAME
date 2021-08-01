@@ -1,0 +1,3 @@
+Got attacked at 463, 660 by Unit@36372991 at time 1607965644384
+Attacked Unit@3ec75893at position 10, 9 at time 1607965644728
+Died at 463, 660 at time 1607965644728

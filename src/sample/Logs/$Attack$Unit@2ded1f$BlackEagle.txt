@@ -1,0 +1,32 @@
+Moved to 47, 192 at time 1607969803907
+Moved to 48, 191 at time 1607969803943
+Moved to 49, 190 at time 1607969803970
+Moved to 50, 189 at time 1607969803984
+Moved to 51, 188 at time 1607969803996
+Moved to 52, 187 at time 1607969804011
+Moved to 53, 186 at time 1607969804037
+Moved to 54, 185 at time 1607969804059
+Moved to 55, 184 at time 1607969804075
+Moved to 56, 183 at time 1607969804091
+Moved to 57, 182 at time 1607969804104
+Moved to 58, 181 at time 1607969804120
+Moved to 59, 180 at time 1607969804132
+Moved to 60, 179 at time 1607969804149
+Attacked Unit@545bec9dat position 100, 100 at time 1607969804161
+Attacked Unit@545bec9dat position 100, 100 at time 1607969804357
+Moved to 47, 192 at time 1607969804368
+Moved to 48, 191 at time 1607969804381
+Moved to 49, 190 at time 1607969804392
+Moved to 50, 189 at time 1607969804403
+Moved to 51, 188 at time 1607969804414
+Moved to 52, 187 at time 1607969804425
+Moved to 53, 186 at time 1607969804437
+Moved to 54, 185 at time 1607969804453
+Moved to 55, 184 at time 1607969804472
+Moved to 56, 183 at time 1607969804484
+Moved to 57, 182 at time 1607969804500
+Moved to 58, 181 at time 1607969804512
+Moved to 59, 180 at time 1607969804522
+Moved to 60, 179 at time 1607969804533
+Attacked Unit@545bec9dat position 100, 100 at time 1607969804546
+Attacked Unit@545bec9dat position 100, 100 at time 1607969804716

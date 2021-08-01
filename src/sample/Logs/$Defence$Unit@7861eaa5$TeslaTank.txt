@@ -1,0 +1,14 @@
+Attacked Unit@e90a630at position 510, 1241 at time 1607970695584
+Attacked Unit@77a5f1baat position 429, 1444 at time 1607970715415
+Got attacked at 623, 1458 by Unit@151701cd at time 1607970715428
+Attacked Unit@56777e4cat position 476, 1474 at time 1607970717089
+Got attacked at 623, 1458 by Unit@151701cd at time 1607970717096
+Attacked Unit@151701cdat position 481, 1209 at time 1607970718769
+Got attacked at 623, 1458 by Falling off a bridge at time 1607970719168
+Died at 566, 1433 at time 1607970719192
+Died at 602, 1440 at time 1607970719201
+Died at 605, 1465 at time 1607970719201
+Got attacked at 623, 1458 by Falling off a bridge at time 1607970719238
+Died at 623, 1458 at time 1607970719238
+Died at 621, 1488 at time 1607970719238
+Died at 623, 1458 at time 1607970719238

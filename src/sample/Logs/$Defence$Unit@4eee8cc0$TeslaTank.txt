@@ -1,0 +1,38 @@
+Attacked Unit@5d71a14fat position 438, 1465 at time 1607970488567
+Attacked Unit@7043bb2fat position 527, 1241 at time 1607970554061
+Got attacked at 590, 1416 by Unit@7b77c473 at time 1607970555744
+Got attacked at 590, 1416 by Unit@4112c674 at time 1607970555767
+Attacked Unit@7c0f692dat position 452, 1519 at time 1607970555771
+Attacked Unit@4112c674at position 477, 1487 at time 1607970557502
+Attacked Unit@2de65d0eat position 416, 1491 at time 1607970559233
+Got attacked at 590, 1416 by Falling off a bridge at time 1607970560878
+Attacked Unit@7ec5c960at position 394, 1437 at time 1607970560907
+Died at 538, 1394 at time 1607970560908
+Died at 566, 1433 at time 1607970560909
+Died at 555, 1458 at time 1607970560913
+Died at 602, 1440 at time 1607970560913
+Died at 605, 1465 at time 1607970560913
+Died at 588, 1454 at time 1607970560913
+Died at 590, 1416 at time 1607970560913
+Got attacked at 582, 1429 by Unit@6ed3b0f5 at time 1607971102084
+Got attacked at 582, 1429 by Unit@5ee76da5 at time 1607971102092
+Attacked Unit@56a5e3aaat position 437, 1526 at time 1607971102104
+Got attacked at 582, 1429 by Unit@4e8176ec at time 1607971102109
+Attacked Unit@382d8a65at position 471, 1452 at time 1607971139228
+Got attacked at 582, 1429 by Unit@689022a2 at time 1607971139233
+Got attacked at 582, 1429 by Unit@6ed3b0f5 at time 1607971139234
+Got attacked at 582, 1429 by Unit@4e8176ec at time 1607971139235
+Got attacked at 582, 1429 by Unit@7c0b3ab1 at time 1607971140884
+Attacked Unit@38ece2f5at position 427, 1601 at time 1607971140897
+Died at 579, 1396 at time 1607971140917
+Died at 607, 1396 at time 1607971140973
+Died at 566, 1433 at time 1607971140985
+Died at 612, 1398 at time 1607971140987
+Died at 562, 1402 at time 1607971140988
+Died at 618, 1427 at time 1607971140988
+Died at 538, 1394 at time 1607971140988
+Died at 555, 1458 at time 1607971140988
+Died at 602, 1440 at time 1607971140988
+Died at 605, 1465 at time 1607971140988
+Died at 580, 1452 at time 1607971140988
+Died at 582, 1429 at time 1607971140988

@@ -1,0 +1,15 @@
+Attacked Unit@79408f81at position 554, 557 at time 1607904751466
+Attacked Unit@79408f81at position 524, 527 at time 1607904752640
+Attacked Unit@79408f81at position 496, 499 at time 1607904753798
+Attacked Unit@79408f81at position 455, 458 at time 1607904755032
+Attacked Unit@226f3b9eat position 614, 100 at time 1607904756214
+Attacked Unit@226f3b9eat position 574, 100 at time 1607904757390
+Attacked Unit@226f3b9eat position 536, 100 at time 1607904758516
+Attacked Unit@226f3b9eat position 500, 100 at time 1607904759661
+Attacked Unit@473f93b5at position 100, 504 at time 1607904760800
+Attacked Unit@473f93b5at position 100, 460 at time 1607904761949
+Attacked Unit@ef7b86fat position 100, 448 at time 1607904763112
+Attacked Unit@ef7b86fat position 100, 367 at time 1607904764249
+Attacked Unit@7e22ca73at position 398, 100 at time 1607904765362
+Attacked Unit@1983c1d1at position 58, 325 at time 1607904766474
+Attacked Unit@473f93b5at position 121, 293 at time 1607904767586

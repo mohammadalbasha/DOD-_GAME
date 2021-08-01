@@ -1,0 +1,17 @@
+Attacked Unit@2e3cc8a1at position 413, 317 at time 1607905322249
+Attacked Unit@36a668d0at position 369, 252 at time 1607905465249
+Attacked Unit@6651312aat position 605, 347 at time 1607905466905
+Attacked Unit@22102b36at position 633, 351 at time 1607905468575
+Attacked Unit@22102b36at position 633, 351 at time 1607905470254
+Attacked Unit@f825842at position 568, 281 at time 1607905471946
+Got attacked at 437, 487 by Unit@66243e83 at time 1607905472059
+Got attacked at 437, 487 by Unit@b2fb7d0 at time 1607905472090
+Got attacked at 437, 487 by Unit@259565b at time 1607905472674
+Got attacked at 437, 487 by Unit@6535ae93 at time 1607905473556
+Got attacked at 437, 487 by Unit@46ce9a80 at time 1607905473559
+Got attacked at 437, 487 by Unit@a9fd730 at time 1607905473610
+Attacked Unit@46ce9a80at position 422, 218 at time 1607905473669
+Got attacked at 437, 487 by Unit@11800769 at time 1607905473686
+Got attacked at 437, 487 by Unit@197826aa at time 1607905473690
+Got attacked at 437, 487 by Unit@40f4aa94 at time 1607905473690
+Died at 437, 487 at time 1607905473736

@@ -1,0 +1,12 @@
+Attacked Unit@711fb6bcat position 421, 1433 at time 1607970910796
+Got attacked at 601, 1438 by Unit@6304e7aa at time 1607970910797
+Got attacked at 601, 1438 by Unit@2ef45ccd at time 1607970946947
+Attacked Unit@711fb6bcat position 421, 1433 at time 1607970946955
+Attacked Unit@6bbaf5f3at position 490, 1460 at time 1607970948626
+Got attacked at 601, 1438 by Unit@6fc6a250 at time 1607970950310
+Attacked Unit@6fc6a250at position 427, 1516 at time 1607970950319
+Got attacked at 601, 1438 by Unit@39689e8f at time 1607970951961
+Attacked Unit@15ee4ebeat position 412, 1463 at time 1607970951987
+Got attacked at 601, 1438 by Unit@15ee4ebe at time 1607970952005
+Got attacked at 601, 1438 by Falling off a bridge at time 1607970952008
+Died at 601, 1438 at time 1607970952040

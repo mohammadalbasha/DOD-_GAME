@@ -1,0 +1,16 @@
+Attacked Unit@454b9dd2at position 1479, 348 at time 1607965644268
+Attacked Unit@454b9dd2at position 1479, 348 at time 1607965646020
+Got attacked at 1707, 294 by Unit@18243108 at time 1607965707972
+Got attacked at 1707, 294 by Unit@454b9dd2 at time 1607965708005
+Attacked Unit@454b9dd2at position 1479, 348 at time 1607965708032
+Attacked Unit@18243108at position 1451, 235 at time 1607965709701
+Got attacked at 1707, 294 by Unit@18243108 at time 1607965709964
+Got attacked at 1707, 294 by Unit@454b9dd2 at time 1607965710380
+Attacked Unit@18243108at position 1451, 235 at time 1607965711861
+Got attacked at 1707, 294 by Unit@18243108 at time 1607965712115
+Attacked Unit@18243108at position 1451, 235 at time 1607965714005
+Got attacked at 1707, 294 by Unit@18243108 at time 1607965714121
+Attacked Unit@18243108at position 1451, 235 at time 1607965715752
+Got attacked at 1707, 294 by Unit@18243108 at time 1607965716002
+Moved to 1706, 293 at time 1607965716122
+Died at 1706, 293 at time 1607965716124

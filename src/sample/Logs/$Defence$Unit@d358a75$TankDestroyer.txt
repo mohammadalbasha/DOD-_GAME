@@ -1,0 +1,22 @@
+Moved to 1002, 763 at time 1607870162234
+Moved to 1001, 762 at time 1607870162300
+Moved to 1000, 761 at time 1607870162401
+Moved to 999, 760 at time 1607870162467
+Moved to 998, 759 at time 1607870162524
+Moved to 997, 758 at time 1607870162585
+Moved to 996, 757 at time 1607870162667
+Moved to 995, 756 at time 1607870162729
+Moved to 994, 739 at time 1607870164337
+Got attacked at 994, 738 by Unit@76540c6b at time 1607870164496
+Moved to 993, 737 at time 1607870164528
+Got attacked at 993, 717 by Unit@76540c6b at time 1607870166068
+Got attacked at 993, 701 by Unit@76540c6b at time 1607870167746
+Got attacked at 993, 689 by Unit@4ba81ad2 at time 1607870168745
+Moved to 992, 682 at time 1607870169241
+Moved to 991, 679 at time 1607870169448
+Got attacked at 991, 677 by Unit@3a0ca2a2 at time 1607870169699
+Moved to 990, 670 at time 1607870170480
+Got attacked at 990, 662 by Unit@3a0ca2a2 at time 1607870171413
+Moved to 989, 657 at time 1607870171803
+Got attacked at 989, 653 by Unit@4ba81ad2 at time 1607870172209
+Died at 989, 652 at time 1607870172251
